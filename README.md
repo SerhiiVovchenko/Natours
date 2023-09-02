@@ -40,6 +40,8 @@ https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
 
 [III. File Layout](#iii-file-layout)
 
+[IV. Postman API documentation](#iv-postman-api-documentation)
+
 ---
 
 &nbsp;
@@ -115,7 +117,14 @@ Additional files for spooling up a web server, package management, environment c
 
 &nbsp;
 
+# IV. Postman API documentation
 
-[Table of Contents](#table-of-contents)
+Please take a look at all the features of this website.
+All available API manipulations are described in the excellent Postman assembly.
+
+https://documenter.getpostman.com/view/2s9Y5R37B8?version=latest
+
+[Table of Contents](#table-of-documentation)
 
 ---
+
